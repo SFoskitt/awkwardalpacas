@@ -5,7 +5,8 @@
   "description": "Help people find new lunch partners. CORGI",
   "repository": "https://github.com/awkwardalpacas/awkwardalpacas.git",
   "engines": {
-    "node": "v0.12.4"
+    "node": "v0.12.4",
+    "npm": "2.10.1"
     },
   "devDependencies": {
     "karma": "~0.10",
