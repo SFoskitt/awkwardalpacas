@@ -32,4 +32,5 @@ client/lib
 
 	bower_components/
 	db/db.js.orig
-	node_modules/
+	node_modules/node_modules
+node_modules
