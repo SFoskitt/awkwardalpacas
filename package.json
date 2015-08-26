@@ -4,12 +4,10 @@
   "version": "v0.12.4",
   "description": "Help people find new lunch partners. CORGI",
   "repository": "https://github.com/awkwardalpacas/awkwardalpacas.git",
-
   "engines": {
     "node": "v0.12.4",
     "npm": "2.10.1"
-    },
-
+  },
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "^1.1.1",
@@ -18,7 +16,6 @@
     "shelljs": "^0.2.6",
     "karma-junit-reporter": "^0.2.2"
   },
-
   "dependencies": {
     "bcrypt": "^0.8.2",
     "bcrypt-nodejs": "0.0.3",
@@ -26,7 +23,7 @@
     "express": "^4.12.3",
     "jwt-simple": "^0.3.0",
     "mongodb": "^2.0.27",
-    "mongoose": "^4.0.1",
+    "mongoose": "^4.0.8",
     "mongoose-auto-increment": "^4.0.0",
     "morgan": "^1.5.2",
     "q": "^1.2.0"
